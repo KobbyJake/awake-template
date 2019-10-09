@@ -5,7 +5,7 @@ category:
   - Third Party Integrations
 author: Jake Appiah Baah
 date: 2019-10-09T15:24:34.678Z
-featureImage: /uploads/admi-1.jpeg
+featureImage: /uploads/fin.png
 ---
 You can manage your entire project locally, directly on your com‐
 
