@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'SHSCBBK',
   tagline: "St. Helena's School Complex, Agona Bobikuma",
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/admi-1.jpeg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
