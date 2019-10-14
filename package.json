@@ -1,8 +1,8 @@
 {
-  "name": "nuxtlify",
+  "name": "shscbbk",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
+  "description": "St. Helena's School Complex, Agona Bobikuma",
+  "author": "Jake Appiah Baah",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
